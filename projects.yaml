@@ -2723,7 +2723,7 @@ projects:
     description: Untraceable cryptocurrency with a mix of standard market pricing and
       stable fiat value storage without an unsustainable peg or asset backing. It achieves
       this with a built in on-chain smart contract that controls the minting and burning
-      of coins in..
+      of coins in..haven
     category: privacy-coins
   - group: true
     group_id: stos
@@ -13715,7 +13715,7 @@ projects:
     github_id: techbanca/coinai
     group_id: banca
   - name: haven
-    github_id: havenprotocol/haven
+    github_id: haven-protocol-org/haven-main
     group_id: xhv
   - name: gochain
     github_id: gochain/gochain
